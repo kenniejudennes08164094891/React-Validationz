@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "fullName": "kennie Jude Great",
+      "phoneNumberValue": "08149647591",
+      "emailValue": "judeomosehin@gmail.com",
+      "passwordValue": "qwerty",
+      "confirmPasswordValue": "qwerty",
+      "status": "Active",
+      "createdAt": "03/13/2023",
+      "id": 1
+    },
+    {
+      "fullName": "Omosehin Kehinde Jude",
+      "phoneNumberValue": "09099722652",
+      "emailValue": "judeomosehin@gmail.com",
+      "passwordValue": "ebbesand",
+      "confirmPasswordValue": "ebbesand",
+      "status": "Active",
+      "createdAt": "03/12/2023",
+      "id": 4
+    },
+    {
+      "fullName": "chisomaga judennes",
+      "phoneNumberValue": "08149647594",
+      "emailValue": "judeomosehin@gmail.com",
+      "passwordValue": "ebbesand",
+      "confirmPasswordValue": "ebbesand",
+      "status": "Active",
+      "createdAt": "03/13/2023",
+      "id": 6
+    }
+  ]
+}
